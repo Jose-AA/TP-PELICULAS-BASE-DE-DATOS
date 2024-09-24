@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="LuOxkL1Yb-oQvovYPexT">
-    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
         <mxCell id="Qr0_MQB-56ZItfrZqpIL-113" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Cod. Pais de Filmacion&amp;nbsp;&lt;/u&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="Qr0_MQB-56ZItfrZqpIL-110" vertex="1">
           <mxGeometry y="86" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qr0_MQB-56ZItfrZqpIL-114" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Fecha realización&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="Qr0_MQB-56ZItfrZqpIL-110" vertex="1">
+        <mxCell id="Qr0_MQB-56ZItfrZqpIL-115" value="&lt;u&gt;Papel interpretado&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;" parent="Qr0_MQB-56ZItfrZqpIL-110" vertex="1">
           <mxGeometry y="116" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qr0_MQB-56ZItfrZqpIL-115" value="Papel interpretado" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;" parent="Qr0_MQB-56ZItfrZqpIL-110" vertex="1">
+        <mxCell id="Qr0_MQB-56ZItfrZqpIL-114" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Fecha realización&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="Qr0_MQB-56ZItfrZqpIL-110" vertex="1">
           <mxGeometry y="146" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qr0_MQB-56ZItfrZqpIL-116" value="Actores" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" parent="1" vertex="1">
@@ -296,7 +296,7 @@
             <mxPoint x="696" y="2308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YO8iCiWfInet2200_S3x-4" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=-0.002;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qr0_MQB-56ZItfrZqpIL-115" target="Qr0_MQB-56ZItfrZqpIL-106" edge="1">
+        <mxCell id="YO8iCiWfInet2200_S3x-4" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=-0.002;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Qr0_MQB-56ZItfrZqpIL-114" target="Qr0_MQB-56ZItfrZqpIL-106" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="650" y="2520" as="sourcePoint" />
             <mxPoint x="694" y="2520" as="targetPoint" />
@@ -425,10 +425,10 @@
         <mxCell id="34XalaxViy57nJl8xtMz-34" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Cod. Pais de Filmacion&amp;nbsp;&lt;/u&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-31" vertex="1">
           <mxGeometry y="86" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="34XalaxViy57nJl8xtMz-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Fecha realización&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-31" vertex="1">
+        <mxCell id="34XalaxViy57nJl8xtMz-36" value="&lt;u&gt;Papel interpretado&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-31" vertex="1">
           <mxGeometry y="116" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="34XalaxViy57nJl8xtMz-36" value="Papel interpretado" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-31" vertex="1">
+        <mxCell id="34XalaxViy57nJl8xtMz-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Fecha realización&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-31" vertex="1">
           <mxGeometry y="146" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34XalaxViy57nJl8xtMz-37" value="Actores" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" parent="1" vertex="1">
@@ -452,7 +452,7 @@
         <mxCell id="34XalaxViy57nJl8xtMz-43" value="&lt;span style=&quot;font-size: 14px; text-align: center; text-wrap: nowrap;&quot;&gt;&lt;u&gt;Cursos de Dirección realizados&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="34XalaxViy57nJl8xtMz-41" vertex="1">
           <mxGeometry y="56" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPTZngrrUAVdgmee6ZGG-2" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.408;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qr0_MQB-56ZItfrZqpIL-100">
+        <mxCell id="VPTZngrrUAVdgmee6ZGG-2" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.408;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Qr0_MQB-56ZItfrZqpIL-100" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="547" y="2050" as="sourcePoint" />
             <mxPoint x="522" y="2050" as="targetPoint" />
